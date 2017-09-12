@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Allowing people with arthritis to write better, with less pain
 
-You can use the [editor on GitHub](https://github.com/jacobburscough/Arth.write.is/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Arthritis is very common among people, and can worsen with age. It causes inflamation in the joints, and treatment helps but no cure has been found. Most people with arthritis has trouble writing for a long period of time. Our product can help with the pain coming, and we hope to reduce it. Buying this product is cheap and is also very easy to use.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Arth-write-is
 
-### Markdown
+This changeable grip can be put on any pen or pencil and positioned how wanted or needed. After recieving the product you must install the app that connects to the grip via bluetooth. You can map out on the app where the pain is located, it will then let you know how to position the grip to create the least amount of pain. After writing for an extended period of time the app will notify you to change the position if wanted.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Benefits of Arth-write-is
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacobburscough/Arth.write.is/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Easy to use
+Fair price
+Good Quality
